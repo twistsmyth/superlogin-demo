@@ -1,4 +1,4 @@
-# SuperLogin Demo
+# Bits.ky
 
 [Live Demo](https://superlogin-demo.herokuapp.com)
 
